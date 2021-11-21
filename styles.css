@@ -77,10 +77,6 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 
-.experience h2 {
-  margin: 0;
-}
-
 .tag {
   background-color: #efefef;
   color: black;
