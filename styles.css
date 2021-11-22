@@ -103,9 +103,12 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
-.map {
-  border: 3px solid white;
-  border-radius: 100%;
+.map img {
+  border: 3px solid lightblue;
+}
+
+.map img:hover {
+  border-color: hotpink;
 }
 
 ul.skills {
